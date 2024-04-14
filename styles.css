@@ -1,0 +1,39 @@
+/* Estilos personalizados */
+#inicio {
+  padding-top: 120px; /* Ajusta el espacio para la barra de navegación */
+}
+.subtitle {
+  color: red; /* Color del texto */
+  font-size: 30px; /* Tamaño de fuente más pequeño */
+  font-family: 'Luckiest Guy'; /* Aplica la fuente similar a Marker Felt */
+  display: block; /* Hacer que el subtítulo ocupe una línea completa */
+}
+.navbar {
+  min-height: 80px; /* Ajusta la altura de la barra de menú */
+}
+/* Estilos personalizados */
+
+.navbar-brand {
+  font-family: 'Luckiest Guy'; /* Aplica la fuente similar a Marker Felt */
+  font-size: 40px; /* Cambia el tamaño del texto según sea necesario */
+
+}
+.navbar-nav {
+  margin: auto; /* Centra las opciones del menú */
+}
+
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh; /* Ajusta la altura a pantalla completa */
+}
+
+.nav-link {
+  padding-top: 20px; /* Ajusta el espacio entre las opciones del menú */
+  padding-bottom: 20px; /* Ajusta el espacio entre las opciones del menú */
+}
+
+#hecho {
+  color: red; /* Color del texto */
